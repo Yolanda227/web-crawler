@@ -1,0 +1,18 @@
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+solution：
+XGboost
+https://www.kaggle.com/code/bandiatindra/telecom-churn-prediction/notebook
+accuracy = 0.8294243070362474  （highest）
+
+Linear Regression：
+https://www.kaggle.com/code/farazrahman/telco-customer-churn-logisticregression
+Logistic Regression:
+Accuracy 75.59%,
+Sensitivity 75.75%
+Specificity 75.53%
+
+https://www.kaggle.com/code/anirbansarkar823/telecom-customer-churn-prediction/notebook
+Good visualization and metric score
+
+
